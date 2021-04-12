@@ -6,7 +6,7 @@ CDTRACK is a command-line utility program that allows the caller to play a speci
 
 LICENSE
 ===============
-* Freeware
+* BSD 3 Clauses
 
 COMPILE TOOLS
 ===============
